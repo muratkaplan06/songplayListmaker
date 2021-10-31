@@ -1,4 +1,4 @@
-<center><p><h2>Play List Maker</h2></p></center>
+<center><p><h2>Playlist Maker</h2></p></center>
 <img src="https://assets-global.website-files.com/5deef90e2b03a42deaf1f5f9/5dfbc118b074186ea74e058b_Music-Playlist_Octiive-Blog-Post-Feat-Image.jpg" alt="Italian Trulli" style="width:500px;height:300px;">
 <p>you can do it "0- to quit
 1- to play next song
